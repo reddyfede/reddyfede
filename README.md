@@ -1,11 +1,14 @@
+<p>
+  <img  src="https://github.com/reddyfede/reddyfede/assets/106488356/31669b05-869f-4ab4-8489-4ecf74a8cdf9">
+</p>
 
-<img  src="https://github.com/reddyfede/reddyfede/assets/106488356/31669b05-869f-4ab4-8489-4ecf74a8cdf9">
+<p>
+  All that i created is just a click away.
+  Go explore :)
 
-All that i created is just a click away.
-Go explore :)
-
-Check my <a href='https://reddyfede.netlify.app/'>portfolio</a>
-or browse my repos.
+  Check my <a href='https://reddyfede.netlify.app/'>portfolio</a>
+  or browse my repos.
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reddyfede&show_icons=true&theme=transparent">
